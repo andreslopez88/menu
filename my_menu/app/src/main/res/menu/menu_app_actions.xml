@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_seting"
+        android:title="setting"
+        android:icon="@drawable/baseline_settings_24setting"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/help"
+        android:title="Help"
+        android:icon="@drawable/twotone_help_24help"
+        app:showAsAction="withText"
+        />
+
+</menu>
